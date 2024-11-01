@@ -38,7 +38,7 @@ const LoginScreen = ({ navigation }: Props) => {
   return (
     <NativeBaseProvider>
       <ImageBackground 
-        source={require('../../assets/aplicativo (1).jpg')} 
+        source={require('../../assets/login.jpeg')} 
         style={{ flex: 1, width: '100%', height: '100%', position: 'absolute', top: 0, left: 0 }}
       >
 

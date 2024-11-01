@@ -15,11 +15,11 @@ type Props = {
 const ConfirmAppointmentScreen = ({ navigation }: Props) => {
   return (
     <NativeBaseProvider>
-      <Center flex={1} bg="white">
+      <Center flex={1} bg="gray">
         <Box>
-          <Text>Consulta agendada com sucesso!</Text>
-          <Button mt={4} onPress={() => navigation.navigate('ConsultationsList')}>
-            Voltar para Consultas
+          <Text>Avaliação cadastrada com sucesso!</Text>
+          <Button colorScheme="emerald" mt={4} onPress={() => navigation.navigate('ConsultationsList')}>
+            Voltar para tele inicial
           </Button>
         </Box>
       </Center>
