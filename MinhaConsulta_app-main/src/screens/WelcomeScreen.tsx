@@ -17,7 +17,7 @@ const WelcomeScreen = ({ navigation }: Props) => {
   return (
     <NativeBaseProvider>
       <ImageBackground 
-        source={require('../../assets/sanofifundo.jpg')} // Substitua pelo caminho da sua imagem
+        source={require('../../assets/fundo.jpg')} // Substitua pelo caminho da sua imagem
         style={styles.background}
       >
 
