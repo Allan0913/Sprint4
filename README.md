@@ -9,4 +9,4 @@
 
 # Tela 1 
 
-<img src="../../GitHub/sprint4_mobile/MinhaConsulta_app-main/assets/fundo.jpg" alt="tela1">
+![image](https://github.com/user-attachments/assets/3588472a-2500-432a-a9a6-9b7e5d2ead41)
