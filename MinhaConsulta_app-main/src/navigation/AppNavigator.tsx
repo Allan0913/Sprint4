@@ -44,12 +44,12 @@ const AppNavigator = () => {
       <Stack.Screen 
         name="ScheduleConsultation" 
         component={ScheduleConsultationScreen} 
-        options={{ title: 'Agendar Consulta' }} 
+        options={{ title: 'Avaliar o app' }} 
       />
       <Stack.Screen 
         name="ConfirmAppointment" 
         component={ConfirmAppointmentScreen} 
-        options={{ title: 'Confirmação de Agendamento' }} 
+        options={{ title: 'Confirmação do Feedback' }} 
       />
     </Stack.Navigator>
   );
